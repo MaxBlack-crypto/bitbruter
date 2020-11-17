@@ -32,6 +32,24 @@ cd bitbruter && pip install -r requirements.txt
 
 python bitbruter.py
 
+or
+
+git clone https://github.com/adrijano/bitbruter.git
+
+cd bitbruter
+
+pip install -r requirements.txt
+
+python3 -m pip install base58
+python3 -m pip install PySimpleGUI
+
+python3 bitbruter.py
+
+
+
+
+
+
 ```
 ### Windows
 ```
